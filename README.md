@@ -1,2 +1,2 @@
 # bookfire
-burn the books
+burn the book
